@@ -1,0 +1,114 @@
+@import "./fonts.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #464f54;
+}
+
+.block-title {
+  margin-top: -70px;
+  width: 65%;
+  height: 180px;
+  background-color: #181818;
+  float: right;
+}
+.sup-title {
+  display: block;
+  color: #767676;
+  padding-left: 65px;
+  padding-top: 45px;
+  font-family: "Proxima Nova", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 5px;
+  font-size: 15px;
+}
+
+.text-title {
+  color: #fff;
+  width: 90%;
+  padding-left: 65px;
+  font-family: "Playfair Display", serif;
+  font-size: 48px;
+  font-weight: normal;
+  border-bottom: 2px solid #303030;
+}
+
+.block-icons {
+  width: 60%;
+  height: 75px;
+  background-color: #fbc02d;
+  float: right;
+}
+
+.icons {
+  margin: 25px 0 0 20px;
+}
+
+.fas {
+font-size: 25px;
+padding-left: 35px;
+color: #fbdd95;
+}
+.fas:hover {
+  color: #fff;
+  transition: all .4s linear;
+  -webkit-transition: all .4s linear;
+  -moz-transition: all .4s linear;
+  -ms-transition: all .4s linear;
+  -o-transition: all .4s linear;
+  cursor: pointer;
+}
+.line {
+  font-size: 40px;
+  display: inline-block;
+  padding-left: 2px;
+}
+.section {
+  padding: 200px 0 0 100px;
+  margin: 100px auto;
+  width: 50%;
+  height: 78vh;
+  background-color: #fff;
+}
+.author {
+  display: block;
+  font-family: "Proxima Nova", sans-serif;
+  color: #b4b4b4;
+  font-size: 18px;
+  letter-spacing: 4.38px;
+  text-transform: uppercase;
+  padding-top: 20px;
+}
+.big_title {
+  color: #2a2a2a;
+  font-size: 70px;
+  text-transform: uppercase;
+  font-family: FuturaPT, "Trebuchet MS", Arial, sans-serif;
+  letter-spacing: 3px;
+  padding-top: 20px;
+}
+.tagline {
+  display: block;
+  font-family: Georgia, sans-serif;
+  font-style: italic;
+  color: #8f8f8f;
+  font-size: 22px;
+  letter-spacing: 2px;
+  padding-bottom: 30px;
+}
+
+p {
+  text-align: justify;
+  display: block;
+  width: 86%;
+  font-family: Georgia, sans-serif;
+  font-size: 22px;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  padding-bottom: 15px;
+}

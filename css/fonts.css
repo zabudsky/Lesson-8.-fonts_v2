@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Playfair Display', serif;
+    src: local("Playfair Display"),
+    url(../fonts/PlayfairDisplay-Regular.ttf);
+}
+@font-face {
+    font-family: 'Proxima Nova', sans-serif;
+    src: local("Proxima Nova"),
+    url(../fonts/Proxima\ Nova\ Regular.otf);
+}
+@font-face {
+    font-family: FuturaPT, "Trebuchet MS", Arial, sans-serif;
+    src: local("FuturaPT-Heavy"),
+    url(../fonts/FuturaPT-Heavy.ttf);
+}
+@font-face {
+	font-family: Georgia, sans-serif;
+    src: local("Playfair Display"),
+    url(../fonts/Georgia.woff);
+}
