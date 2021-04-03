@@ -112,3 +112,10 @@ p {
   line-height: 1.5;
   padding-bottom: 15px;
 }
+
+.big-line {
+  margin-top: -659px;
+  margin-left: -50px;
+  border-left: solid 2px #e8eced;
+  height: 733px;
+}
